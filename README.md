@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi, I’m Upendra Singh
 
-<!--
-**Upendra2313845/Upendra2313845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer • Data Science Learner • Tech Enthusiast
+🎓 B.Tech CSE | PSIT Kanpur (7th Semester)
 
-Here are some ideas to get you started:
+💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on RunX – Online Code Compiler
+
+🌱 Learning Node.js, MongoDB, and Advanced JavaScript
+
+💬 Ask me about Web Development, JavaScript, C++, Python
+
+🎯 Goal: Become a Full Stack Developer / Software Engineer
+
+⚡ Fun fact: I love building clean UI and solving problems!
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React (learning)
+Backend: Node.js, Express.js
+Database: MongoDB
+Programming: C++, Python
+Tools: Git, GitHub, VS Code, Postman
+
+🚀 Featured Projects
+🔥 RunX – Online Code Compiler
+
+A web-based compiler platform supporting multiple languages with real-time output.
+Tech: HTML, CSS, JavaScript, Node.js, Express
+🔗 Repo: https://github.com/Upendra2313845/RunX
+
+🧑‍💼 Portfolio Website
+
+A personal portfolio showcasing my skills and projects.
+(You can add link later)
+
+🧮 Calculator App
+
+A simple and responsive calculator using JavaScript.
+
+📊 GitHub Stats
+
+🔥 GitHub Streak
+
+📫 Connect with Me
+
+LinkedIn (Add your link here)
+📩 Email: 2k23.cs2313845@gmail.com
+
+🙌 Thanks for visiting my profile!
