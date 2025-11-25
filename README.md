@@ -78,11 +78,11 @@ A browser-based online compiler supporting multiple languages with real-time out
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/upendra-singh-2313845](https://www.linkedin.com/in/upendra-singh-347b9830a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/upendra-singh-347b9830a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/Upendra2313845" target="_blank">
+  <a href="https://leetcode.com/u/upendra2313845/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
