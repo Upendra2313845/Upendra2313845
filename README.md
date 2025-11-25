@@ -61,15 +61,6 @@ A browser-based online compiler supporting multiple languages with real-time out
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Upendra2313845&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2313845&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🪪 Badges
 
 <p align="center">
@@ -87,7 +78,7 @@ A browser-based online compiler supporting multiple languages with real-time out
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/upendra-singh-2313845" target="_blank">
+  <a href="[https://www.linkedin.com/in/upendra-singh-2313845](https://www.linkedin.com/in/upendra-singh-347b9830a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
