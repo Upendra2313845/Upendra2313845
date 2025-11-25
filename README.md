@@ -1,51 +1,95 @@
-👋 Hi, I’m Upendra Singh
+<h1 align="center">Hi there, I'm Upendra Singh 👋</h1>
 
-🚀 Full Stack Web Developer • Data Science Learner • Tech Enthusiast
-🎓 B.Tech CSE | PSIT Kanpur (7th Semester)
+<p align="center">
+  <b>Sophomore | Full-Stack Web Developer | Competitive Programmer | CSE @ PSIT Kanpur</b>
+</p>
 
-💡 About Me
+---
 
-🔭 Currently working on RunX – Online Code Compiler
+## 👨‍💻 About Me
 
-🌱 Learning Node.js, MongoDB, and Advanced JavaScript
+- 🔭 Currently building **full-stack scalable applications** with clean architecture & modern UI.
+- 🌱 Learning & exploring **Next.js, TypeScript, System Design, Data Structures & Algorithms**.
+- 💡 Passionate about **UI/UX, reusable components, real-world problem solving & cloud deployments**.
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, and Data Science in Python**.
+- 🚀 Strong believer in **Consistency + Constraint + Convention**.
 
-💬 Ask me about Web Development, JavaScript, C++, Python
+---
 
-🎯 Goal: Become a Full Stack Developer / Software Engineer
+## 🚀 Featured Projects
 
-⚡ Fun fact: I love building clean UI and solving problems!
+### 🔗 **CareSync – Smart Hospital Appointment System**
+A hospital queue system using **Face Recognition + OTP Verification + Fair Queue Mechanism**.  
+- Built with **MERN Stack + Machine Learning**  
+- Real-time queue + Appointment flow  
+- Doctor/Patient/Admin modules  
+- Uses **Face Recognition + OTP Validation**  
+**Your main highlight project 🔥**
 
-🛠️ Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript, React (learning)
-Backend: Node.js, Express.js
-Database: MongoDB
-Programming: C++, Python
-Tools: Git, GitHub, VS Code, Postman
+### 🔗 **RunX – Online Code Compiler**
+A browser-based online compiler supporting multiple languages with real-time output.  
+- Frontend: React + Tailwind  
+- Backend: Node.js  
+- Features: Fast Execution, Multi-language Support, Real-Time Output  
+- Clean & distraction-free UI  
 
-🚀 Featured Projects
-🔥 RunX – Online Code Compiler
+---
 
-A web-based compiler platform supporting multiple languages with real-time output.
-Tech: HTML, CSS, JavaScript, Node.js, Express
-🔗 Repo: https://github.com/Upendra2313845/RunX
+## 🛠️ Tech Stack & Tools
 
-🧑‍💼 Portfolio Website
+**Frontend:**  
+`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Tailwind CSS` · `Next.js` · `Framer Motion`
 
-A personal portfolio showcasing my skills and projects.
-(You can add link later)
+**Backend:**  
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
 
-🧮 Calculator App
+**Other Skills:**  
+`Git & GitHub` · `REST API` · `JSON` · `JWT` · `Postman` · `Responsive Design`
 
-A simple and responsive calculator using JavaScript.
+**Programming:**  
+`C` · `C++` · `Python (Data Science)`  
 
-📊 GitHub Stats
+---
 
-🔥 GitHub Streak
+## 🏆 Achievements & Certifications
 
-📫 Connect with Me
+- ✔️ Finalist at **Cyber Security Hackathon** organized by **C3iHub, IIT Kanpur**  
+- ✔️ Completed **Python Data Science Certification** (Springboard, Infosys)  
+- ✔️ Completed **Web Development Internship** at CodSoft (Batch A82)  
 
-LinkedIn (Add your link here)
-📩 Email: 2k23.cs2313845@gmail.com
+---
 
-🙌 Thanks for visiting my profile!
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Upendra2313845&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2313845&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🪪 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **upendrasingh2313845@gmail.com**
+- 🔗 Portfolio: *(Add later when ready)*
+- 💼 LinkedIn: *(Add if you want)*
+
+---
+
+⭐ **Thanks for visiting! Have a great day 😄**
