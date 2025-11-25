@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Upendra2313845/Upendra2313845/main/banner.png" width="100%" alt="Upendra Singh Banner"/>
-</p>
+</p> -->
 
 <!-- Typing Animation -->
 <h1 align="center">
@@ -29,8 +29,7 @@ A hospital queue system using **Face Recognition + OTP Verification + Fair Queue
 ✔ ML-based face detection  
 ✔ Admin/Doctor/Patient modules  
 
-🎯 **Live Demo:** *Add your link here*  
-📦 **Source Code:** *Add link here*
+
 
 ---
 
@@ -40,8 +39,6 @@ A browser-based compiler supporting **multiple languages + real-time output**
 ✔ Node.js backend  
 ✔ Fast execution, clean UI  
 
-🎯 **Live Demo:** *Add your link here*  
-📦 **Source Code:** *Add link here*
 
 ---
 
@@ -71,14 +68,14 @@ A browser-based compiler supporting **multiple languages + real-time output**
 
 # 📊 GitHub Stats & Activity
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Upendra2313845&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra2313845&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Upendra2313845&theme=tokyonight" height="200" />
-</p>
+</p> -->
 
 ---
 
