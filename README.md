@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Upendra Singh 👋</h1>
+<h1 align="center">Hi there, I'm Upendra Singh </h1>
 
 <p align="center">
   <b>Sophomore | Full-Stack Web Developer | Competitive Programmer | CSE @ PSIT Kanpur</b>
@@ -6,17 +6,17 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me:
 
-- 🔭 Currently building **full-stack scalable applications** with clean architecture & modern UI.
-- 🌱 Learning & exploring **Next.js, TypeScript, System Design, Data Structures & Algorithms**.
-- 💡 Passionate about **UI/UX, reusable components, real-world problem solving & cloud deployments**.
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, and Data Science in Python**.
-- 🚀 Strong believer in **Consistency + Constraint + Convention**.
+-  Currently building **full-stack scalable applications** with clean architecture & modern UI.
+-  Learning & exploring **Next.js, TypeScript, System Design, Data Structures & Algorithms**.
+-  Passionate about **UI/UX, reusable components, real-world problem solving & cloud deployments**.
+-  Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, and Data Science in Python**.
+-  Strong believer in **Consistency + Constraint + Convention**.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects:
 
 ### 🔗 **CareSync – Smart Hospital Appointment System**
 A hospital queue system using **Face Recognition + OTP Verification + Fair Queue Mechanism**.  
@@ -53,15 +53,14 @@ A browser-based online compiler supporting multiple languages with real-time out
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications:
 
-- ✔️ Finalist at **Cyber Security Hackathon** organized by **C3iHub, IIT Kanpur**  
-- ✔️ Completed **Python Data Science Certification** (Springboard, Infosys)  
-- ✔️ Completed **Web Development Internship** at CodSoft (Batch A82)  
+-  Finalist at **Cyber Security Hackathon** organized by **C3iHub, IIT Kanpur**  
+-  Completed **Python Data Science Certification** (Springboard, Infosys)   
 
 ---
 
-## 🪪 Badges
+##  Badges:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -75,7 +74,7 @@ A browser-based online compiler supporting multiple languages with real-time out
 
 ---
 
-## 📫 Contact Me
+##  Contact Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/upendra-singh-347b9830a/" target="_blank">
@@ -99,4 +98,4 @@ A browser-based online compiler supporting multiple languages with real-time out
 
 ---
 
-⭐ **Thanks for visiting! Have a great day 😄**
+ **Thanks for visiting! Have a great day. **
