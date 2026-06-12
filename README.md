@@ -18,17 +18,17 @@
 
 ##  Featured Projects:
 
-### 🔗 **CareSync – Smart Hospital Appointment System**
+### **CareSync – Smart Hospital Appointment System**
 A hospital queue system using **Face Recognition + OTP Verification + Fair Queue Mechanism**.  
 - Built with **MERN Stack + Machine Learning**  
 - Real-time queue + Appointment flow  
 - Doctor/Patient/Admin modules  
 - Uses **Face Recognition + OTP Validation**  
-**Your main highlight project 🔥**
+**Your main highlight project **
 
 ---
 
-### 🔗 **RunX – Online Code Compiler**
+###  **RunX – Online Code Compiler**
 A browser-based online compiler supporting multiple languages with real-time output.  
 - Frontend: React + Tailwind  
 - Backend: Node.js  
