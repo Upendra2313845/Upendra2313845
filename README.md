@@ -151,9 +151,9 @@ Generative AI • NLP • Variational Autoencoders • Data Preprocessing
 
 <p align="center">
 
-<a href="mailto:upendra16485@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/upendra-singh-347b9830a/">LinkedIn</a> •
-<a href="https://github.com/Upendra2313845">GitHub</a> •
-<a href="https://leetcode.com/u/upendra2313845/">LeetCode</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Upendra2313845-black?logo=github)](https://github.com/Upendra2313845)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/upendra-singh-347b9830a/)
+[![Email](https://img.shields.io/badge/Email-upendra16485@gmail.com-red?logo=gmail)](mailto:upendra16485@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Upendra2313845-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/upendra2313845/)
 
 </p>
